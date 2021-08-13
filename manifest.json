@@ -1,6 +1,6 @@
 {
-  "name": "VanillaBurritos x Metaplex NFT Marketplace",
-  "short_name": "VanillaBurritos NFT Marketplace",
+  "name": "VanillaBurritos NFT Marketplace & Minting Workshop",
+  "short_name": "VanillaBurritos NFT Marketplace/Minting Workshop",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
